@@ -13,5 +13,5 @@ From increased traffic, higher sales conversions, and fewer product returns to h
 ```bash
 python MainCam.py
 ```
->>>>>>> ee3f3c497d2164e68336b3da9499e9e0d4c004c4
+
 
