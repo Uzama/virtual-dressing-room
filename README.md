@@ -6,7 +6,7 @@ The virtual fitting room platform creates a dramatically more engaging experienc
  
 From increased traffic, higher sales conversions, and fewer product returns to higher perceived brand image, awareness and memory, virtual fitting room is a simple-to-implement turnkey solution that differentiates your brand and improves your bottom line.
  
- [Yourube Link is Here](https://www.youtube.com/watch?v=_1GyAO5lFpE)
+ [Demo Video](https://drive.google.com/open?id=1Drj86uIJISyLDVpRDpWFXe_x7M4Zppoj)
 =======
 ## To Run the Project
 **Run**
